@@ -1,7 +1,0 @@
-C:\dev\ScubZero\source\ScubZero.Web\bin\ScubZero.Web.dll
-C:\dev\ScubZero\source\ScubZero.Web\bin\ScubZero.Web.pdb
-C:\dev\ScubZero\source\ScubZero.Web\bin\EntityFramework.dll
-C:\dev\ScubZero\source\ScubZero.Web\bin\EntityFramework.xml
-C:\dev\ScubZero\source\ScubZero.Web\obj\Debug\ResolveAssemblyReference.cache
-C:\dev\ScubZero\source\ScubZero.Web\obj\Debug\ScubZero.Web.dll
-C:\dev\ScubZero\source\ScubZero.Web\obj\Debug\ScubZero.Web.pdb
